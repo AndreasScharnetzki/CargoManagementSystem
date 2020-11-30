@@ -1,10 +1,10 @@
 # CargoManagementSystem
 
-<img src="images/GUI.png"><br>
+![GUI](https://user-images.githubusercontent.com/65776440/100639274-404cf280-3335-11eb-8126-95c145c72f33.PNG)<br><br>
 This project represents a scalable, offline Database-Management-System for both customers and their associated Cargo.<br>
 While originally conceptualized as a <b>CommandLineInterface</b>, this project also provides a <b>GraphicalUserInterface</b>.<br><br>
 
-<img src="images/CLI.png"><br>
+![CLI](https://user-images.githubusercontent.com/65776440/100639340-565ab300-3335-11eb-907f-028da55cf145.PNG)<br><br>
 
 Please find a list of some functionalities additional to the <b>CRUD</b>-mechanism the CargoManagementSystem provides:<br>
 
